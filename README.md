@@ -8,6 +8,5 @@ O Projeto Lógico do Sistema envolve a elaboração documental do projeto, é a 
 
 ## Ferramentas Utilizadas para elaborar o Projeto
 
-<img align="center" alt="Alessandro-HTML" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-
-<img align="center" alt="Alessandro-HTML" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img align="center" alt="Alessandro-HTML" height="40" width="80" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img align="center" alt="Alessandro-HTML" height="40" width="80" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
